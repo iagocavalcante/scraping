@@ -1,0 +1,503 @@
+[
+    [
+        {
+            "nome": "Fit Motel",
+            "endereco": "Avenida Engenheiro Fernando Guilhon, 654",
+            "complemento": "Cremação - Belém - PA",
+            "telefone": "(091) 3366-8980",
+            "menorValor": "R$ 50,00",
+            "maiorValor": "R$ 180,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Mimus Motel",
+            "endereco": "Avenida  Dr. Freitas, nº 263 - esq. Passagem Quarubas",
+            "complemento": "Pedreira - Belém - PA",
+            "telefone": "(091) 3233-1667",
+            "menorValor": "R$ 28,00",
+            "maiorValor": "R$ 90,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Motel Locomotiva",
+            "endereco": "Avenida  Pedro Álvares Cabral, 4765",
+            "complemento": "Castanheira - Belém - PA",
+            "telefone": "(091) 3244-1356",
+            "menorValor": "R$ 18,00",
+            "maiorValor": "R$ 121,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Motel Mirage",
+            "endereco": "Rua  Professor Nelson Ribeiro, 161",
+            "complemento": "Umarizal - Belém - PA",
+            "telefone": "(091) 3233-3013",
+            "menorValor": "R$ 92,00",
+            "maiorValor": "R$ 590,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Motel Sagitário",
+            "endereco": "Rodovia              Mário Covas, 1226",
+            "complemento": "Coqueiro - Belém - PA",
+            "telefone": "(091) 3245-0608",
+            "menorValor": "R$ 48,00",
+            "maiorValor": "R$ 1.064,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Pousada Centauro's",
+            "endereco": "Avenida  Pedro Álvares Cabral, 835",
+            "complemento": "Umarizal - Belém - PA",
+            "telefone": "(091) 3204-8000 / (091) 3242-5904",
+            "menorValor": "R$ 92,00",
+            "maiorValor": "R$ 500,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Privilege Motel",
+            "endereco": "Rodovia Mário Covas, 1167",
+            "complemento": "Coqueiro - Belém - PA",
+            "telefone": "(091) 3348-1121",
+            "menorValor": "R$ 58,00",
+            "maiorValor": "R$ 990,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Pousada Olimpo",
+            "endereco": "Rodovia              Mário Covas, 200",
+            "complemento": "Coqueiro - Belém - PA",
+            "telefone": "(091) 98975-8872",
+            "menorValor": "R$ 58,00",
+            "maiorValor": "R$ 105,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Pousada Swing",
+            "endereco": "Passagem José de Alencar, 8",
+            "complemento": "Condor - Belém - PA",
+            "telefone": "(091) 3235-5307",
+            "menorValor": "R$ 47,00",
+            "maiorValor": "R$ 85,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Apart Hotel Presidente",
+            "endereco": "Rua  Ó de Almeida, 501",
+            "complemento": "Campina - Belém - PA",
+            "telefone": "(091) 3242-5940 / (091) 3223-8814",
+            "menorValor": "Não existe informação",
+            "maiorValor": "Não existe informação",
+            "imagem": ""
+        },
+        {
+            "nome": "Fit Motel",
+            "endereco": "Avenida Engenheiro Fernando Guilhon, 654",
+            "complemento": "Cremação - Belém - PA",
+            "telefone": "(091) 3366-8980",
+            "menorValor": "R$ 50,00",
+            "maiorValor": "R$ 180,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Mimus Motel",
+            "endereco": "Avenida Dr. Freitas, nº 263 - esq. Passagem Quarubas",
+            "complemento": "Pedreira - Belém - PA",
+            "telefone": "(091) 3233-1667",
+            "menorValor": "R$ 28,00",
+            "maiorValor": "R$ 90,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Motel Locomotiva",
+            "endereco": "Avenida Pedro Álvares Cabral, 4765",
+            "complemento": "Castanheira - Belém - PA",
+            "telefone": "(091) 3244-1356",
+            "menorValor": "R$ 18,00",
+            "maiorValor": "R$ 121,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Motel Mirage",
+            "endereco": "Rua Professor Nelson Ribeiro, 161",
+            "complemento": "Umarizal - Belém - PA",
+            "telefone": "(091) 3233-3013",
+            "menorValor": "R$ 92,00",
+            "maiorValor": "R$ 590,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Motel Sagitário",
+            "endereco": "Rodovia Mário Covas, 1226",
+            "complemento": "Coqueiro - Belém - PA",
+            "telefone": "(091) 3245-0608",
+            "menorValor": "R$ 48,00",
+            "maiorValor": "R$ 1.064,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Pousada Centauro's",
+            "endereco": "Avenida Pedro Álvares Cabral, 835",
+            "complemento": "Umarizal - Belém - PA",
+            "telefone": "(091) 3204-8000 / (091) 3242-5904",
+            "menorValor": "R$ 92,00",
+            "maiorValor": "R$ 500,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Privilege Motel",
+            "endereco": "Rodovia Mário Covas, 1167",
+            "complemento": "Coqueiro - Belém - PA",
+            "telefone": "(091) 3348-1121",
+            "menorValor": "R$ 58,00",
+            "maiorValor": "R$ 990,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Pousada Olimpo",
+            "endereco": "Rodovia Mário Covas, 200",
+            "complemento": "Coqueiro - Belém - PA",
+            "telefone": "(091) 98975-8872",
+            "menorValor": "R$ 58,00",
+            "maiorValor": "R$ 105,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Pousada Swing",
+            "endereco": "Passagem José de Alencar, 8",
+            "complemento": "Condor - Belém - PA",
+            "telefone": "(091) 3235-5307",
+            "menorValor": "R$ 47,00",
+            "maiorValor": "R$ 85,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Apart Hotel Presidente",
+            "endereco": "Rua Ó de Almeida, 501",
+            "complemento": "Campina - Belém - PA",
+            "telefone": "(091) 3242-5940 / (091) 3223-8814",
+            "menorValor": "R$ 0,00",
+            "maiorValor": "R$ 0,00",
+            "imagem": ""
+        }
+    ],
+    [
+        {
+            "nome": "Fit Motel",
+            "endereco": "Avenida Engenheiro Fernando Guilhon, 654",
+            "complemento": "Cremação - Belém - PA",
+            "telefone": "(091) 3366-8980",
+            "menorValor": "R$ 50,00",
+            "maiorValor": "R$ 180,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Mimus Motel",
+            "endereco": "Avenida  Dr. Freitas, nº 263 - esq. Passagem Quarubas",
+            "complemento": "Pedreira - Belém - PA",
+            "telefone": "(091) 3233-1667",
+            "menorValor": "R$ 28,00",
+            "maiorValor": "R$ 90,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Motel Locomotiva",
+            "endereco": "Avenida  Pedro Álvares Cabral, 4765",
+            "complemento": "Castanheira - Belém - PA",
+            "telefone": "(091) 3244-1356",
+            "menorValor": "R$ 18,00",
+            "maiorValor": "R$ 121,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Motel Mirage",
+            "endereco": "Rua  Professor Nelson Ribeiro, 161",
+            "complemento": "Umarizal - Belém - PA",
+            "telefone": "(091) 3233-3013",
+            "menorValor": "R$ 92,00",
+            "maiorValor": "R$ 590,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Motel Sagitário",
+            "endereco": "Rodovia              Mário Covas, 1226",
+            "complemento": "Coqueiro - Belém - PA",
+            "telefone": "(091) 3245-0608",
+            "menorValor": "R$ 48,00",
+            "maiorValor": "R$ 1.064,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Pousada Centauro's",
+            "endereco": "Avenida  Pedro Álvares Cabral, 835",
+            "complemento": "Umarizal - Belém - PA",
+            "telefone": "(091) 3204-8000 / (091) 3242-5904",
+            "menorValor": "R$ 92,00",
+            "maiorValor": "R$ 500,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Privilege Motel",
+            "endereco": "Rodovia Mário Covas, 1167",
+            "complemento": "Coqueiro - Belém - PA",
+            "telefone": "(091) 3348-1121",
+            "menorValor": "R$ 58,00",
+            "maiorValor": "R$ 990,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Pousada Olimpo",
+            "endereco": "Rodovia              Mário Covas, 200",
+            "complemento": "Coqueiro - Belém - PA",
+            "telefone": "(091) 98975-8872",
+            "menorValor": "R$ 58,00",
+            "maiorValor": "R$ 105,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Pousada Swing",
+            "endereco": "Passagem José de Alencar, 8",
+            "complemento": "Condor - Belém - PA",
+            "telefone": "(091) 3235-5307",
+            "menorValor": "R$ 47,00",
+            "maiorValor": "R$ 85,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Apart Hotel Presidente",
+            "endereco": "Rua  Ó de Almeida, 501",
+            "complemento": "Campina - Belém - PA",
+            "telefone": "(091) 3242-5940 / (091) 3223-8814",
+            "menorValor": "Não existe informação",
+            "maiorValor": "Não existe informação",
+            "imagem": ""
+        },
+        {
+            "nome": "Doca Drive",
+            "endereco": "Avenida Visconde de Souza Franco, 60",
+            "complemento": "Reduto - Belém - PA",
+            "telefone": "(091) 3224-8269",
+            "menorValor": "R$ 0,00",
+            "maiorValor": "R$ 0,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Hotel Castanheira",
+            "endereco": "Rua Jarbas Passarinho, 204",
+            "complemento": "Castanheira - Belém - PA",
+            "telefone": "(091) 3235-3683",
+            "menorValor": "R$ 0,00",
+            "maiorValor": "R$ 0,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Hotel Paraense",
+            "endereco": "Rua Ó de Almeida, 65",
+            "complemento": "Campina - Belém - PA",
+            "telefone": "(091) 3241-5757",
+            "menorValor": "R$ 0,00",
+            "maiorValor": "R$ 0,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Los Piratas",
+            "endereco": "Rua São Boaventura, 268",
+            "complemento": "Cidade Velha - Belém - PA",
+            "telefone": "(091) 3225-1102",
+            "menorValor": "R$ 0,00",
+            "maiorValor": "R$ 0,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Motel Meson do Amor",
+            "endereco": "TREVO Vileta, 2.834",
+            "complemento": "Do Marco - Belém - PA",
+            "telefone": "(091) 3226-2349",
+            "menorValor": "R$ 0,00",
+            "maiorValor": "R$ 0,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Motel Novo Mikonos",
+            "endereco": "Rodovia Mário Covas, 1.160",
+            "complemento": "Coqueiro - Belém - PA",
+            "telefone": "(091) 3235-0095",
+            "menorValor": "R$ 0,00",
+            "maiorValor": "R$ 0,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Motel Portuguesa",
+            "endereco": "Passagem Américo Pedroso, 17",
+            "complemento": "Cremação - Belém - PA",
+            "telefone": "(091) 3241-1392",
+            "menorValor": "R$ 0,00",
+            "maiorValor": "R$ 0,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Motel Privê",
+            "endereco": "Rodovia Transcoqueiro, 55",
+            "complemento": "Mangueirão - Belém - PA",
+            "telefone": "(091) 3285-0299",
+            "menorValor": "R$ 0,00",
+            "maiorValor": "R$ 0,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Motel Só Prazer",
+            "endereco": "Rodovia BR 316, km 14",
+            "complemento": "Marituba - Belém - PA",
+            "telefone": "(091) 3256-0048",
+            "menorValor": "R$ 0,00",
+            "maiorValor": "R$ 0,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Pousada Amarelinho",
+            "endereco": "Avenida Ceará, 74",
+            "complemento": "São Brás - Belém - PA",
+            "telefone": "(091) 3226-6714",
+            "menorValor": "R$ 0,00",
+            "maiorValor": "R$ 0,00",
+            "imagem": ""
+        }
+    ],
+    [
+        {
+            "nome": "Fit Motel",
+            "endereco": "Avenida Engenheiro Fernando Guilhon, 654",
+            "complemento": "Cremação - Belém - PA",
+            "telefone": "(091) 3366-8980",
+            "menorValor": "R$ 50,00",
+            "maiorValor": "R$ 180,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Mimus Motel",
+            "endereco": "Avenida  Dr. Freitas, nº 263 - esq. Passagem Quarubas",
+            "complemento": "Pedreira - Belém - PA",
+            "telefone": "(091) 3233-1667",
+            "menorValor": "R$ 28,00",
+            "maiorValor": "R$ 90,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Motel Locomotiva",
+            "endereco": "Avenida  Pedro Álvares Cabral, 4765",
+            "complemento": "Castanheira - Belém - PA",
+            "telefone": "(091) 3244-1356",
+            "menorValor": "R$ 18,00",
+            "maiorValor": "R$ 121,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Motel Mirage",
+            "endereco": "Rua  Professor Nelson Ribeiro, 161",
+            "complemento": "Umarizal - Belém - PA",
+            "telefone": "(091) 3233-3013",
+            "menorValor": "R$ 92,00",
+            "maiorValor": "R$ 590,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Motel Sagitário",
+            "endereco": "Rodovia              Mário Covas, 1226",
+            "complemento": "Coqueiro - Belém - PA",
+            "telefone": "(091) 3245-0608",
+            "menorValor": "R$ 48,00",
+            "maiorValor": "R$ 1.064,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Pousada Centauro's",
+            "endereco": "Avenida  Pedro Álvares Cabral, 835",
+            "complemento": "Umarizal - Belém - PA",
+            "telefone": "(091) 3204-8000 / (091) 3242-5904",
+            "menorValor": "R$ 92,00",
+            "maiorValor": "R$ 500,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Privilege Motel",
+            "endereco": "Rodovia Mário Covas, 1167",
+            "complemento": "Coqueiro - Belém - PA",
+            "telefone": "(091) 3348-1121",
+            "menorValor": "R$ 58,00",
+            "maiorValor": "R$ 990,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Pousada Olimpo",
+            "endereco": "Rodovia              Mário Covas, 200",
+            "complemento": "Coqueiro - Belém - PA",
+            "telefone": "(091) 98975-8872",
+            "menorValor": "R$ 58,00",
+            "maiorValor": "R$ 105,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Pousada Swing",
+            "endereco": "Passagem José de Alencar, 8",
+            "complemento": "Condor - Belém - PA",
+            "telefone": "(091) 3235-5307",
+            "menorValor": "R$ 47,00",
+            "maiorValor": "R$ 85,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Apart Hotel Presidente",
+            "endereco": "Rua  Ó de Almeida, 501",
+            "complemento": "Campina - Belém - PA",
+            "telefone": "(091) 3242-5940 / (091) 3223-8814",
+            "menorValor": "Não existe informação",
+            "maiorValor": "Não existe informação",
+            "imagem": ""
+        },
+        {
+            "nome": "Pousada Antares",
+            "endereco": "Avenida Júlio César, 1.012",
+            "complemento": "Souza - Belém - PA",
+            "telefone": "(091) 3257-2502",
+            "menorValor": "R$ 0,00",
+            "maiorValor": "R$ 0,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Pousada Athenas",
+            "endereco": "Rua Jardim Brasil II, 66, Km 5",
+            "complemento": "Levilândia - Belém - PA",
+            "telefone": "(091) 3245-0090",
+            "menorValor": "R$ 0,00",
+            "maiorValor": "R$ 0,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Pousada Dallas",
+            "endereco": "PASSAGEM Jardim das Poncianas, 216",
+            "complemento": "Sacramenta - Belém - PA",
+            "telefone": "(091) 3244-3252",
+            "menorValor": "R$ 0,00",
+            "maiorValor": "R$ 0,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Pousada Ele e Ela",
+            "endereco": "Rodovia Augusto Montenegro, Km 5",
+            "complemento": "Castanheira - Belém - PA",
+            "telefone": "(091) 3248-0555",
+            "menorValor": "R$ 0,00",
+            "maiorValor": "R$ 0,00",
+            "imagem": ""
+        },
+        {
+            "nome": "Pousada Porto do Amor",
+            "endereco": "Travessa Manoel Evaristo, 93",
+            "complemento": "Umarizal - Belém - PA",
+            "telefone": "(091) 3233-1494",
+            "menorValor": "R$ 0,00",
+            "maiorValor": "R$ 0,00",
+            "imagem": ""
+        }
+    ]
+]
