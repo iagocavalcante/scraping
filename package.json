@@ -17,7 +17,7 @@
     "casperjs": "^1.1.4",
     "cheerio": "latest",
     "express": "latest",
-    "puppeteer": "^5.0.0",
+    "puppeteer": "^9.0.0",
     "request": "latest"
   }
 }
